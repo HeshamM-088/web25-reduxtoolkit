@@ -1,0 +1,2 @@
+1- reduxtool getting data from back end
+2- redux presist
